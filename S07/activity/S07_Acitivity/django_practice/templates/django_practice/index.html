@@ -1,0 +1,11 @@
+{% if groceryitem_list and user.is_anonymous == False%}
+	<h1>Welcome {{user.first_name}} {{user.last_name}}</h1>
+    <h1>Grocery Items:</h1>
+    <ul>
+        {% for items in groceryitem_list %}
+        <li><a href="#">{{items.item_name}}</a></li>
+        {% endfor %}
+    </ul>
+{% else %}
+    <p>No grocery items has been added.</p>
+{% endif %}

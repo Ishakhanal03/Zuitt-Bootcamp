@@ -1,0 +1,15 @@
+Phython has several structures to store collections or multiple items in a single variable
+Built-in datatypes for collections:-
+Lists
+Tuples
+Sets
+Dictionaries
+
+index - start value is 0
+negative index - last value is -1
+
+Dictionaries are used to store data values in key:value pairs.
+Dictionaries are ordered,changeable
+Dictionaries are accesed by dot notation i.e (.) 
+Example:- dictionary.o
+in dictionary the order cannot be change the added or updated value in dictionary is always added at the last of the dictionary.

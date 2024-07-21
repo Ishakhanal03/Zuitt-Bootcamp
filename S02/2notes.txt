@@ -1,0 +1,18 @@
+Version Control System Commands
+ls - this command will show you all the files and folders 
+     inside your current directory
+cd - change directory, so if you execute this command your 
+     directory will be changed depending on the path that 
+     you provided
+Sublime text
+comments : ctrl+/
+
+to print a string:
+1. we can use concatenation method :- used only for string value and can only print string variable 
+					uses "+" symbol
+2. we can use fstring :- can be used to print any type of datatypes in the program like int , string etc 
+syntax:
+print(f"stament{variable_name1} statement {variable_name2}...."
+Example
+print(f"My name is {full_name} and my age is {age}!")
+where full_name is variable storing string value and age is storing int value

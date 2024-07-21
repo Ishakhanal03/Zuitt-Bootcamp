@@ -1,0 +1,13 @@
+Encapsulation:- Mechanism of wrapping the attributes and code acting on the methods together as a single unit.
+Attributes of a class will be hidden from other classes.
+
+Inheritance:- The transfer of the characteristics of a classs to other classes that are derived from it.
+
+Polymorphism
+
+Abstraction:- blueprint for other classes.
+It allows you to create a set of methods that must be created within any child classes built from the abstract class.
+Common interface for different implementations for different classes.
+
+The underscore (_) prefix is a common convention used in Python to indicate that a variable is intended to be treated as a non-public or "protected" variable within a class. 
+It's a way to signal to other programmers (or yourself) that the variable is meant to be used within the class and should not be accessed directly from outside the class.
