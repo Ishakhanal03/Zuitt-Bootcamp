@@ -1,7 +1,0 @@
-PUT a product :- https://t8cem81wwa.execute-api.us-west-2.amazonaws.com/default/products
-
-GET all products :- https://t8cem81wwa.execute-api.us-west-2.amazonaws.com/default/products
-
-DELETE product by id :- https://t8cem81wwa.execute-api.us-west-2.amazonaws.com/default/products/3
-
-GET product by id :- https://t8cem81wwa.execute-api.us-west-2.amazonaws.com/default/products/2
