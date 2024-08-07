@@ -1,0 +1,6 @@
+https://ix498buabj.execute-api.us-west-2.amazonaws.com/default
+
+
+postman link:
+put: https://ix498buabj.execute-api.us-west-2.amazonaws.com/default/products
+get:https://ix498buabj.execute-api.us-west-2.amazonaws.com/default/products
